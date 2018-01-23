@@ -1,0 +1,37 @@
+
+h1, h2 {
+  font-weight: normal;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+html{
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #f0f1f2;
+    font-family: Helvetica,"Helvetica Neue", Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;
+    min-width: 1280px;
+    overflow-x: auto;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+*{
+        -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+$defalFontColor1:#444;//默认字体颜色
+$defalFontColor2:#666;
+$defalFontColor3:#999;
+$BackgroundColor:#222d3f;
+$BackbuttonColor:#237bd0;
+
+$greyBColor:#f9f9f9;//灰色背景
+    
